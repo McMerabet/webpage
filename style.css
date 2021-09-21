@@ -1,0 +1,32 @@
+body{
+    background-color: #1d1f2e;
+}
+
+h3{
+    color: #a32a76;
+
+}
+
+p{
+    color: #ffff;
+    font-size: 25px;
+}
+
+.first-title {
+    color: chartreuse;
+
+}
+
+#youtube-link{
+    color:coral;
+}
+
+.list + ul{
+    background-color: cornsilk;
+    list-style: none;
+}
+
+ul > li {
+    color:red;
+}
+
